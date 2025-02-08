@@ -7,5 +7,8 @@ public class Main {
         System.out.println(b);
         System.out.println(c);
 
+        //int tmp, a = 5, b = 6, c =7;
+        // tmp = a; a = c ; c = b; b = tmp;
+
     }
 }
