@@ -5,9 +5,11 @@ public class Main {
         // Please write your code here.
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt(), b = sc.nextInt();
-        int tmp = a;
+       /* int tmp = a;
         a = b;
         b = tmp; 
         System.out.printf("%d %d", a, b);
+        */
+        System.out.printf("%d %d", b, a);
     }
 }
